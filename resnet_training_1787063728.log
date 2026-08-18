@@ -1,0 +1,94 @@
+2026-08-18 19:35:28,909 [MainThread  ] [DEBUG]  command line arguments: {'path_data': './data/cars_annos.mat', 'path_images': './data/', 'path_labels': './data/cars_meta.mat', 'path_model_checkpoint': None, 'model': 'ResNet18', 'checkpoint_frequency': None, 'number_of_classes': 4, 'epochs': 1, 'validation_frequency': 1, 'data_subset': 1.0, 'freeze_weights': True, 'scheduler_rate': 5.0, 'learning_rate': 0.01, 'batch_size': 4, 'learning_rate_scheduler': 0.2, 'weight_decay': 0.0001, 'momentum': 0.9, 'nesterov': True}
+2026-08-18 19:35:28,909 [MainThread  ] [INFO ]  loading and preprocessing data
+2026-08-18 19:35:28,909 [MainThread  ] [INFO ]  preprocessing data
+2026-08-18 19:35:28,913 [MainThread  ] [INFO ]  loading pretrained model and establishing model characteristics
+2026-08-18 19:35:28,913 [MainThread  ] [INFO ]  loading pretrained resnet model with 4 number of labels
+2026-08-18 19:35:29,190 [MainThread  ] [INFO ]  tuning fc layer only
+2026-08-18 19:35:29,193 [MainThread  ] [INFO ]  training model
+2026-08-18 19:35:29,196 [MainThread  ] [INFO ]  starting training process
+2026-08-18 19:35:29,196 [MainThread  ] [INFO ]  device being used: cpu
+2026-08-18 19:35:29,196 [MainThread  ] [INFO ]  training data size: 28
+2026-08-18 19:35:29,196 [MainThread  ] [INFO ]  validation data size: 4
+2026-08-18 19:35:29,197 [MainThread  ] [INFO ]  training data label, unique count: (array([array([[1]], dtype=uint8), array([[2]], dtype=uint8),
+       array([[3]], dtype=uint8), array([[4]], dtype=uint8)], dtype=object), array([7, 7, 7, 7]))
+2026-08-18 19:35:29,198 [MainThread  ] [INFO ]  training data label, percentage: [0.25 0.25 0.25 0.25]
+2026-08-18 19:35:29,199 [MainThread  ] [INFO ]  validation data label, unique count: (array([array([[1]], dtype=uint8), array([[2]], dtype=uint8),
+       array([[3]], dtype=uint8), array([[4]], dtype=uint8)], dtype=object), array([1, 1, 1, 1]))
+2026-08-18 19:35:29,200 [MainThread  ] [INFO ]  validation data label, percentage: [0.25 0.25 0.25 0.25]
+2026-08-18 19:35:29,200 [MainThread  ] [INFO ]  epoch number: 0
+2026-08-18 19:35:29,204 [MainThread  ] [DEBUG]  image: ./data/car_ims/001_000.jpg is a ['FakeCar 1'] with label 0
+2026-08-18 19:35:29,205 [MainThread  ] [DEBUG]  Importing JpegImagePlugin
+2026-08-18 19:35:29,219 [MainThread  ] [DEBUG]  image: ./data/car_ims/004_006.jpg is a ['FakeCar 4'] with label 3
+2026-08-18 19:35:29,224 [MainThread  ] [DEBUG]  image: ./data/car_ims/003_000.jpg is a ['FakeCar 3'] with label 2
+2026-08-18 19:35:29,230 [MainThread  ] [DEBUG]  image: ./data/car_ims/003_006.jpg is a ['FakeCar 3'] with label 2
+2026-08-18 19:35:29,238 [MainThread  ] [DEBUG]  running forward and backward pass
+2026-08-18 19:35:29,470 [MainThread  ] [DEBUG]  fraction of training data processed: 0.000000
+2026-08-18 19:35:29,470 [MainThread  ] [DEBUG]  batch running training loss: 1.452499
+2026-08-18 19:35:29,470 [MainThread  ] [DEBUG]  batch running training accuracy: 0.000000
+2026-08-18 19:35:29,470 [MainThread  ] [DEBUG]  image: ./data/car_ims/001_004.jpg is a ['FakeCar 1'] with label 0
+2026-08-18 19:35:29,474 [MainThread  ] [DEBUG]  image: ./data/car_ims/001_001.jpg is a ['FakeCar 1'] with label 0
+2026-08-18 19:35:29,478 [MainThread  ] [DEBUG]  image: ./data/car_ims/001_006.jpg is a ['FakeCar 1'] with label 0
+2026-08-18 19:35:29,483 [MainThread  ] [DEBUG]  image: ./data/car_ims/001_003.jpg is a ['FakeCar 1'] with label 0
+2026-08-18 19:35:29,487 [MainThread  ] [DEBUG]  running forward and backward pass
+2026-08-18 19:35:29,606 [MainThread  ] [DEBUG]  fraction of training data processed: 14.285714
+2026-08-18 19:35:29,606 [MainThread  ] [DEBUG]  batch running training loss: 4.164578
+2026-08-18 19:35:29,606 [MainThread  ] [DEBUG]  batch running training accuracy: 0.000000
+2026-08-18 19:35:29,606 [MainThread  ] [DEBUG]  image: ./data/car_ims/001_002.jpg is a ['FakeCar 1'] with label 0
+2026-08-18 19:35:29,609 [MainThread  ] [DEBUG]  image: ./data/car_ims/003_007.jpg is a ['FakeCar 3'] with label 2
+2026-08-18 19:35:29,613 [MainThread  ] [DEBUG]  image: ./data/car_ims/002_007.jpg is a ['FakeCar 2'] with label 1
+2026-08-18 19:35:29,617 [MainThread  ] [DEBUG]  image: ./data/car_ims/003_005.jpg is a ['FakeCar 3'] with label 2
+2026-08-18 19:35:29,623 [MainThread  ] [DEBUG]  running forward and backward pass
+2026-08-18 19:35:29,727 [MainThread  ] [DEBUG]  fraction of training data processed: 28.571429
+2026-08-18 19:35:29,727 [MainThread  ] [DEBUG]  batch running training loss: 11.402823
+2026-08-18 19:35:29,727 [MainThread  ] [DEBUG]  batch running training accuracy: 1.000000
+2026-08-18 19:35:29,727 [MainThread  ] [DEBUG]  image: ./data/car_ims/004_002.jpg is a ['FakeCar 4'] with label 3
+2026-08-18 19:35:29,730 [MainThread  ] [DEBUG]  image: ./data/car_ims/002_004.jpg is a ['FakeCar 2'] with label 1
+2026-08-18 19:35:29,735 [MainThread  ] [DEBUG]  image: ./data/car_ims/004_001.jpg is a ['FakeCar 4'] with label 3
+2026-08-18 19:35:29,739 [MainThread  ] [DEBUG]  image: ./data/car_ims/002_006.jpg is a ['FakeCar 2'] with label 1
+2026-08-18 19:35:29,742 [MainThread  ] [DEBUG]  running forward and backward pass
+2026-08-18 19:35:29,843 [MainThread  ] [DEBUG]  fraction of training data processed: 42.857143
+2026-08-18 19:35:29,844 [MainThread  ] [DEBUG]  batch running training loss: 16.483414
+2026-08-18 19:35:29,844 [MainThread  ] [DEBUG]  batch running training accuracy: 1.000000
+2026-08-18 19:35:29,844 [MainThread  ] [DEBUG]  image: ./data/car_ims/004_004.jpg is a ['FakeCar 4'] with label 3
+2026-08-18 19:35:29,848 [MainThread  ] [DEBUG]  image: ./data/car_ims/004_007.jpg is a ['FakeCar 4'] with label 3
+2026-08-18 19:35:29,852 [MainThread  ] [DEBUG]  image: ./data/car_ims/002_000.jpg is a ['FakeCar 2'] with label 1
+2026-08-18 19:35:29,855 [MainThread  ] [DEBUG]  image: ./data/car_ims/003_004.jpg is a ['FakeCar 3'] with label 2
+2026-08-18 19:35:29,859 [MainThread  ] [DEBUG]  running forward and backward pass
+2026-08-18 19:35:29,963 [MainThread  ] [DEBUG]  fraction of training data processed: 57.142857
+2026-08-18 19:35:29,963 [MainThread  ] [DEBUG]  batch running training loss: 18.181203
+2026-08-18 19:35:29,963 [MainThread  ] [DEBUG]  batch running training accuracy: 2.000000
+2026-08-18 19:35:29,964 [MainThread  ] [DEBUG]  image: ./data/car_ims/003_002.jpg is a ['FakeCar 3'] with label 2
+2026-08-18 19:35:29,968 [MainThread  ] [DEBUG]  image: ./data/car_ims/004_000.jpg is a ['FakeCar 4'] with label 3
+2026-08-18 19:35:29,972 [MainThread  ] [DEBUG]  image: ./data/car_ims/002_001.jpg is a ['FakeCar 2'] with label 1
+2026-08-18 19:35:29,975 [MainThread  ] [DEBUG]  image: ./data/car_ims/002_002.jpg is a ['FakeCar 2'] with label 1
+2026-08-18 19:35:29,981 [MainThread  ] [DEBUG]  running forward and backward pass
+2026-08-18 19:35:30,106 [MainThread  ] [DEBUG]  fraction of training data processed: 71.428571
+2026-08-18 19:35:30,107 [MainThread  ] [DEBUG]  batch running training loss: 20.379422
+2026-08-18 19:35:30,107 [MainThread  ] [DEBUG]  batch running training accuracy: 3.000000
+2026-08-18 19:35:30,107 [MainThread  ] [DEBUG]  image: ./data/car_ims/003_003.jpg is a ['FakeCar 3'] with label 2
+2026-08-18 19:35:30,112 [MainThread  ] [DEBUG]  image: ./data/car_ims/002_003.jpg is a ['FakeCar 2'] with label 1
+2026-08-18 19:35:30,117 [MainThread  ] [DEBUG]  image: ./data/car_ims/004_005.jpg is a ['FakeCar 4'] with label 3
+2026-08-18 19:35:30,121 [MainThread  ] [DEBUG]  image: ./data/car_ims/001_007.jpg is a ['FakeCar 1'] with label 0
+2026-08-18 19:35:30,126 [MainThread  ] [DEBUG]  running forward and backward pass
+2026-08-18 19:35:30,236 [MainThread  ] [DEBUG]  fraction of training data processed: 85.714286
+2026-08-18 19:35:30,236 [MainThread  ] [DEBUG]  batch running training loss: 24.312024
+2026-08-18 19:35:30,237 [MainThread  ] [DEBUG]  batch running training accuracy: 5.000000
+2026-08-18 19:35:30,239 [MainThread  ] [INFO ]  Epoch: training Weigthed F1-Score: 0.1833, Loss: 0.8683 Acc: 0.1786 
+2026-08-18 19:35:30,239 [MainThread  ] [DEBUG]  current learning rate: 0.010000
+2026-08-18 19:35:30,239 [MainThread  ] [INFO ]  validating model
+2026-08-18 19:35:30,240 [MainThread  ] [DEBUG]  image: ./data/car_ims/002_005.jpg is a ['FakeCar 2'] with label 1
+2026-08-18 19:35:30,245 [MainThread  ] [DEBUG]  image: ./data/car_ims/003_001.jpg is a ['FakeCar 3'] with label 2
+2026-08-18 19:35:30,248 [MainThread  ] [DEBUG]  image: ./data/car_ims/001_005.jpg is a ['FakeCar 1'] with label 0
+2026-08-18 19:35:30,252 [MainThread  ] [DEBUG]  image: ./data/car_ims/004_003.jpg is a ['FakeCar 4'] with label 3
+2026-08-18 19:35:30,255 [MainThread  ] [DEBUG]  running forward and backward pass
+2026-08-18 19:35:30,356 [MainThread  ] [DEBUG]  fraction of validation data processed: 0.000000
+2026-08-18 19:35:30,356 [MainThread  ] [DEBUG]  batch running validation loss: 2.932380
+2026-08-18 19:35:30,356 [MainThread  ] [DEBUG]  batch running validation accuracy: 3.000000
+2026-08-18 19:35:30,357 [MainThread  ] [INFO ]  confusion matrix:
+ [[0. 1. 0. 0.]
+ [0. 1. 0. 0.]
+ [0. 0. 1. 0.]
+ [0. 0. 0. 1.]]
+2026-08-18 19:35:30,359 [MainThread  ] [INFO ]  Epoch: validation F1-Score: 0.6667, Loss: 0.7331 Acc: 0.7500
+2026-08-18 19:35:30,359 [MainThread  ] [INFO ]  metric accuracy=0.75
+2026-08-18 19:35:30,359 [MainThread  ] [INFO ]  Finished Training
