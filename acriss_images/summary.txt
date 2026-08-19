@@ -1,0 +1,98 @@
+images_placed=16185
+mode=symlink
+splits=train,test
+
+CATEGORY COUNTS
+  O Oversize: 2263
+  P Premium: 2113
+  C Compact: 1969
+  S Standard: 1698
+  X Special: 1638
+  U Premium Elite: 1323
+  I Intermediate: 1226
+  R Standard Elite: 764
+  L Luxury: 760
+  E Economy: 723
+  W Luxury Elite: 589
+  F Fullsize: 411
+  M Mini: 236
+  J Intermediate Elite: 172
+  N Mini Elite: 128
+  D Compact Elite: 89
+  H Economy Elite: 83
+
+TYPE COUNTS
+  D 4-5 Door: 4958
+  F SUV: 2763
+  E Coupe: 2746
+  T Convertible: 1985
+  Q Pick up (double cab) 4 door: 762
+  P Pick up (single/extended cab) 2 door: 752
+  W Wagon/Estate: 503
+  M Monospace: 416
+  V Passenger Van: 358
+  K Commercial Van/Truck: 302
+  G Crossover: 252
+  B 2-3 Door: 229
+  J Open Air All Terrain: 86
+  N Roadster: 73
+
+ACRISS CATEGORY+TYPE COUNTS
+  XE: 1083
+  PD: 1058
+  CD: 1028
+  SF: 946
+  OQ: 762
+  OP: 752
+  ID: 637
+  ED: 545
+  UD: 513
+  PF: 478
+  XT: 468
+  LD: 421
+  SM: 416
+  UE: 406
+  OV: 358
+  IF: 344
+  CF: 332
+  FF: 325
+  UT: 320
+  OK: 302
+  RT: 257
+  RE: 246
+  MT: 236
+  WD: 236
+  WT: 192
+  RD: 181
+  CB: 174
+  PW: 168
+  PT: 167
+  SD: 166
+  LE: 166
+  CW: 165
+  PE: 164
+  WE: 161
+  CE: 92
+  SE: 90
+  CT: 90
+  EW: 90
+  OF: 89
+  DE: 89
+  EE: 88
+  CG: 88
+  LT: 88
+  XD: 87
+  IG: 86
+  FD: 86
+  JJ: 86
+  JT: 86
+  LF: 85
+  UF: 84
+  HE: 83
+  IT: 81
+  RF: 80
+  SW: 80
+  IE: 78
+  PG: 78
+  NN: 73
+  NB: 55

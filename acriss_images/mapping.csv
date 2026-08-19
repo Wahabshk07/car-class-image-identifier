@@ -1,0 +1,197 @@
+stanford_class_id,stanford_class_name,category_code,category_name,type_code,type_name,acriss_ct
+1,AM General Hummer SUV 2000,O,Oversize,F,SUV,OF
+2,Acura RL Sedan 2012,P,Premium,D,4-5 Door,PD
+3,Acura TL Sedan 2012,P,Premium,D,4-5 Door,PD
+4,Acura TL Type-S 2008,U,Premium Elite,D,4-5 Door,UD
+5,Acura TSX Sedan 2012,P,Premium,D,4-5 Door,PD
+6,Acura Integra Type R 2001,D,Compact Elite,E,Coupe,DE
+7,Acura ZDX Hatchback 2012,P,Premium,G,Crossover,PG
+8,Aston Martin V8 Vantage Convertible 2012,X,Special,T,Convertible,XT
+9,Aston Martin V8 Vantage Coupe 2012,X,Special,E,Coupe,XE
+10,Aston Martin Virage Convertible 2012,X,Special,T,Convertible,XT
+11,Aston Martin Virage Coupe 2012,X,Special,E,Coupe,XE
+12,Audi RS 4 Convertible 2008,U,Premium Elite,T,Convertible,UT
+13,Audi A5 Coupe 2012,P,Premium,E,Coupe,PE
+14,Audi TTS Coupe 2012,U,Premium Elite,E,Coupe,UE
+15,Audi R8 Coupe 2012,X,Special,E,Coupe,XE
+16,Audi V8 Sedan 1994,P,Premium,D,4-5 Door,PD
+17,Audi 100 Sedan 1994,P,Premium,D,4-5 Door,PD
+18,Audi 100 Wagon 1994,P,Premium,W,Wagon/Estate,PW
+19,Audi TT Hatchback 2011,P,Premium,D,4-5 Door,PD
+20,Audi S6 Sedan 2011,U,Premium Elite,D,4-5 Door,UD
+21,Audi S5 Convertible 2012,U,Premium Elite,T,Convertible,UT
+22,Audi S5 Coupe 2012,U,Premium Elite,E,Coupe,UE
+23,Audi S4 Sedan 2012,U,Premium Elite,D,4-5 Door,UD
+24,Audi S4 Sedan 2007,U,Premium Elite,D,4-5 Door,UD
+25,Audi TT RS Coupe 2012,U,Premium Elite,E,Coupe,UE
+26,BMW ActiveHybrid 5 Sedan 2012,P,Premium,D,4-5 Door,PD
+27,BMW 1 Series Convertible 2012,P,Premium,T,Convertible,PT
+28,BMW 1 Series Coupe 2012,P,Premium,E,Coupe,PE
+29,BMW 3 Series Sedan 2012,P,Premium,D,4-5 Door,PD
+30,BMW 3 Series Wagon 2012,P,Premium,W,Wagon/Estate,PW
+31,BMW 6 Series Convertible 2007,L,Luxury,T,Convertible,LT
+32,BMW X5 SUV 2007,P,Premium,F,SUV,PF
+33,BMW X6 SUV 2012,U,Premium Elite,F,SUV,UF
+34,BMW M3 Coupe 2012,U,Premium Elite,E,Coupe,UE
+35,BMW M5 Sedan 2010,U,Premium Elite,D,4-5 Door,UD
+36,BMW M6 Convertible 2010,U,Premium Elite,T,Convertible,UT
+37,BMW X3 SUV 2012,P,Premium,F,SUV,PF
+38,BMW Z4 Convertible 2012,U,Premium Elite,T,Convertible,UT
+39,Bentley Continental Supersports Conv. Convertible 2012,W,Luxury Elite,T,Convertible,WT
+40,Bentley Arnage Sedan 2009,L,Luxury,D,4-5 Door,LD
+41,Bentley Mulsanne Sedan 2011,W,Luxury Elite,D,4-5 Door,WD
+42,Bentley Continental GT Coupe 2012,W,Luxury Elite,E,Coupe,WE
+43,Bentley Continental GT Coupe 2007,W,Luxury Elite,E,Coupe,WE
+44,Bentley Continental Flying Spur Sedan 2007,L,Luxury,D,4-5 Door,LD
+45,Bugatti Veyron 16.4 Convertible 2009,X,Special,T,Convertible,XT
+46,Bugatti Veyron 16.4 Coupe 2009,X,Special,E,Coupe,XE
+47,Buick Regal GS 2012,I,Intermediate,D,4-5 Door,ID
+48,Buick Rainier SUV 2007,S,Standard,F,SUV,SF
+49,Buick Verano Sedan 2012,C,Compact,D,4-5 Door,CD
+50,Buick Enclave SUV 2012,S,Standard,F,SUV,SF
+51,Cadillac CTS-V Sedan 2012,U,Premium Elite,D,4-5 Door,UD
+52,Cadillac SRX SUV 2012,P,Premium,F,SUV,PF
+53,Cadillac Escalade EXT Crew Cab 2007,O,Oversize,Q,Pick up (double cab) 4 door,OQ
+54,Chevrolet Silverado 1500 Hybrid Crew Cab 2012,O,Oversize,Q,Pick up (double cab) 4 door,OQ
+55,Chevrolet Corvette Convertible 2012,R,Standard Elite,T,Convertible,RT
+56,Chevrolet Corvette ZR1 2012,R,Standard Elite,E,Coupe,RE
+57,Chevrolet Corvette Ron Fellows Edition Z06 2007,R,Standard Elite,E,Coupe,RE
+58,Chevrolet Traverse SUV 2012,S,Standard,F,SUV,SF
+59,Chevrolet Camaro Convertible 2012,R,Standard Elite,T,Convertible,RT
+60,Chevrolet HHR SS 2010,C,Compact,D,4-5 Door,CD
+61,Chevrolet Impala Sedan 2007,F,Fullsize,D,4-5 Door,FD
+62,Chevrolet Tahoe Hybrid SUV 2012,F,Fullsize,F,SUV,FF
+63,Chevrolet Sonic Sedan 2012,E,Economy,D,4-5 Door,ED
+64,Chevrolet Express Cargo Van 2007,O,Oversize,K,Commercial Van/Truck,OK
+65,Chevrolet Avalanche Crew Cab 2012,O,Oversize,Q,Pick up (double cab) 4 door,OQ
+66,Chevrolet Cobalt SS 2010,H,Economy Elite,E,Coupe,HE
+67,Chevrolet Malibu Hybrid Sedan 2010,I,Intermediate,D,4-5 Door,ID
+68,Chevrolet TrailBlazer SS 2009,R,Standard Elite,F,SUV,RF
+69,Chevrolet Silverado 2500HD Regular Cab 2012,O,Oversize,P,Pick up (single/extended cab) 2 door,OP
+70,Chevrolet Silverado 1500 Classic Extended Cab 2007,O,Oversize,P,Pick up (single/extended cab) 2 door,OP
+71,Chevrolet Express Van 2007,O,Oversize,V,Passenger Van,OV
+72,Chevrolet Monte Carlo Coupe 2007,S,Standard,E,Coupe,SE
+73,Chevrolet Malibu Sedan 2007,I,Intermediate,D,4-5 Door,ID
+74,Chevrolet Silverado 1500 Extended Cab 2012,O,Oversize,P,Pick up (single/extended cab) 2 door,OP
+75,Chevrolet Silverado 1500 Regular Cab 2012,O,Oversize,P,Pick up (single/extended cab) 2 door,OP
+76,Chrysler Aspen SUV 2009,S,Standard,F,SUV,SF
+77,Chrysler Sebring Convertible 2010,I,Intermediate,T,Convertible,IT
+78,Chrysler Town and Country Minivan 2012,S,Standard,M,Monospace,SM
+79,Chrysler 300 SRT-8 2010,R,Standard Elite,D,4-5 Door,RD
+80,Chrysler Crossfire Convertible 2008,J,Intermediate Elite,T,Convertible,JT
+81,Chrysler PT Cruiser Convertible 2008,C,Compact,T,Convertible,CT
+82,Daewoo Nubira Wagon 2002,E,Economy,W,Wagon/Estate,EW
+83,Dodge Caliber Wagon 2012,C,Compact,W,Wagon/Estate,CW
+84,Dodge Caliber Wagon 2007,C,Compact,W,Wagon/Estate,CW
+85,Dodge Caravan Minivan 1997,S,Standard,M,Monospace,SM
+86,Dodge Ram Pickup 3500 Crew Cab 2010,O,Oversize,Q,Pick up (double cab) 4 door,OQ
+87,Dodge Ram Pickup 3500 Quad Cab 2009,O,Oversize,Q,Pick up (double cab) 4 door,OQ
+88,Dodge Sprinter Cargo Van 2009,O,Oversize,K,Commercial Van/Truck,OK
+89,Dodge Journey SUV 2012,I,Intermediate,F,SUV,IF
+90,Dodge Dakota Crew Cab 2010,O,Oversize,Q,Pick up (double cab) 4 door,OQ
+91,Dodge Dakota Club Cab 2007,O,Oversize,P,Pick up (single/extended cab) 2 door,OP
+92,Dodge Magnum Wagon 2008,S,Standard,W,Wagon/Estate,SW
+93,Dodge Challenger SRT8 2011,R,Standard Elite,E,Coupe,RE
+94,Dodge Durango SUV 2012,S,Standard,F,SUV,SF
+95,Dodge Durango SUV 2007,S,Standard,F,SUV,SF
+96,Dodge Charger Sedan 2012,S,Standard,D,4-5 Door,SD
+97,Dodge Charger SRT-8 2009,R,Standard Elite,D,4-5 Door,RD
+98,Eagle Talon Hatchback 1998,C,Compact,B,2-3 Door,CB
+99,FIAT 500 Abarth 2012,N,Mini Elite,B,2-3 Door,NB
+100,FIAT 500 Convertible 2012,M,Mini,T,Convertible,MT
+101,Ferrari FF Coupe 2012,X,Special,E,Coupe,XE
+102,Ferrari California Convertible 2012,X,Special,T,Convertible,XT
+103,Ferrari 458 Italia Convertible 2012,X,Special,T,Convertible,XT
+104,Ferrari 458 Italia Coupe 2012,X,Special,E,Coupe,XE
+105,Fisker Karma Sedan 2012,X,Special,D,4-5 Door,XD
+106,Ford F-450 Super Duty Crew Cab 2012,O,Oversize,Q,Pick up (double cab) 4 door,OQ
+107,Ford Mustang Convertible 2007,R,Standard Elite,T,Convertible,RT
+108,Ford Freestar Minivan 2007,S,Standard,M,Monospace,SM
+109,Ford Expedition EL SUV 2009,F,Fullsize,F,SUV,FF
+110,Ford Edge SUV 2012,I,Intermediate,G,Crossover,IG
+111,Ford Ranger SuperCab 2011,O,Oversize,P,Pick up (single/extended cab) 2 door,OP
+112,Ford GT Coupe 2006,X,Special,E,Coupe,XE
+113,Ford F-150 Regular Cab 2012,O,Oversize,P,Pick up (single/extended cab) 2 door,OP
+114,Ford F-150 Regular Cab 2007,O,Oversize,P,Pick up (single/extended cab) 2 door,OP
+115,Ford Focus Sedan 2007,C,Compact,D,4-5 Door,CD
+116,Ford E-Series Wagon Van 2012,O,Oversize,V,Passenger Van,OV
+117,Ford Fiesta Sedan 2012,E,Economy,D,4-5 Door,ED
+118,GMC Terrain SUV 2012,I,Intermediate,F,SUV,IF
+119,GMC Savana Van 2012,O,Oversize,V,Passenger Van,OV
+120,GMC Yukon Hybrid SUV 2012,F,Fullsize,F,SUV,FF
+121,GMC Acadia SUV 2012,S,Standard,F,SUV,SF
+122,GMC Canyon Extended Cab 2012,O,Oversize,P,Pick up (single/extended cab) 2 door,OP
+123,Geo Metro Convertible 1993,M,Mini,T,Convertible,MT
+124,HUMMER H3T Crew Cab 2010,O,Oversize,Q,Pick up (double cab) 4 door,OQ
+125,HUMMER H2 SUT Crew Cab 2009,O,Oversize,Q,Pick up (double cab) 4 door,OQ
+126,Honda Odyssey Minivan 2012,S,Standard,M,Monospace,SM
+127,Honda Odyssey Minivan 2007,S,Standard,M,Monospace,SM
+128,Honda Accord Coupe 2012,I,Intermediate,E,Coupe,IE
+129,Honda Accord Sedan 2012,I,Intermediate,D,4-5 Door,ID
+130,Hyundai Veloster Hatchback 2012,C,Compact,B,2-3 Door,CB
+131,Hyundai Santa Fe SUV 2012,I,Intermediate,F,SUV,IF
+132,Hyundai Tucson SUV 2012,C,Compact,F,SUV,CF
+133,Hyundai Veracruz SUV 2012,S,Standard,F,SUV,SF
+134,Hyundai Sonata Hybrid Sedan 2012,I,Intermediate,D,4-5 Door,ID
+135,Hyundai Elantra Sedan 2007,C,Compact,D,4-5 Door,CD
+136,Hyundai Accent Sedan 2012,E,Economy,D,4-5 Door,ED
+137,Hyundai Genesis Sedan 2012,P,Premium,D,4-5 Door,PD
+138,Hyundai Sonata Sedan 2012,I,Intermediate,D,4-5 Door,ID
+139,Hyundai Elantra Touring Hatchback 2012,C,Compact,D,4-5 Door,CD
+140,Hyundai Azera Sedan 2012,S,Standard,D,4-5 Door,SD
+141,Infiniti G Coupe IPL 2012,U,Premium Elite,E,Coupe,UE
+142,Infiniti QX56 SUV 2011,P,Premium,F,SUV,PF
+143,Isuzu Ascender SUV 2008,S,Standard,F,SUV,SF
+144,Jaguar XK XKR 2012,L,Luxury,E,Coupe,LE
+145,Jeep Patriot SUV 2012,C,Compact,F,SUV,CF
+146,Jeep Wrangler SUV 2012,J,Intermediate Elite,J,Open Air All Terrain,JJ
+147,Jeep Liberty SUV 2012,I,Intermediate,F,SUV,IF
+148,Jeep Grand Cherokee SUV 2012,S,Standard,F,SUV,SF
+149,Jeep Compass SUV 2012,C,Compact,F,SUV,CF
+150,Lamborghini Reventon Coupe 2008,X,Special,E,Coupe,XE
+151,Lamborghini Aventador Coupe 2012,X,Special,E,Coupe,XE
+152,Lamborghini Gallardo LP 570-4 Superleggera 2012,X,Special,E,Coupe,XE
+153,Lamborghini Diablo Coupe 2001,X,Special,E,Coupe,XE
+154,Land Rover Range Rover SUV 2012,L,Luxury,F,SUV,LF
+155,Land Rover LR2 SUV 2012,P,Premium,F,SUV,PF
+156,Lincoln Town Car Sedan 2011,L,Luxury,D,4-5 Door,LD
+157,MINI Cooper Roadster Convertible 2012,N,Mini Elite,N,Roadster,NN
+158,Maybach Landaulet Convertible 2012,W,Luxury Elite,T,Convertible,WT
+159,Mazda Tribute SUV 2011,C,Compact,F,SUV,CF
+160,McLaren MP4-12C Coupe 2012,X,Special,E,Coupe,XE
+161,Mercedes-Benz 300-Class Convertible 1993,P,Premium,T,Convertible,PT
+162,Mercedes-Benz C-Class Sedan 2012,P,Premium,D,4-5 Door,PD
+163,Mercedes-Benz SL-Class Coupe 2009,L,Luxury,E,Coupe,LE
+164,Mercedes-Benz E-Class Sedan 2012,P,Premium,D,4-5 Door,PD
+165,Mercedes-Benz S-Class Sedan 2012,L,Luxury,D,4-5 Door,LD
+166,Mercedes-Benz Sprinter Van 2012,O,Oversize,K,Commercial Van/Truck,OK
+167,Mitsubishi Lancer Sedan 2012,C,Compact,D,4-5 Door,CD
+168,Nissan Leaf Hatchback 2012,C,Compact,D,4-5 Door,CD
+169,Nissan NV Passenger Van 2012,O,Oversize,V,Passenger Van,OV
+170,Nissan Juke Hatchback 2012,C,Compact,G,Crossover,CG
+171,Nissan 240SX Coupe 1998,C,Compact,E,Coupe,CE
+172,Plymouth Neon Coupe 1999,E,Economy,E,Coupe,EE
+173,Porsche Panamera Sedan 2012,L,Luxury,D,4-5 Door,LD
+174,Ram C/V Cargo Van Minivan 2012,O,Oversize,K,Commercial Van/Truck,OK
+175,Rolls-Royce Phantom Drophead Coupe Convertible 2012,W,Luxury Elite,T,Convertible,WT
+176,Rolls-Royce Ghost Sedan 2012,W,Luxury Elite,D,4-5 Door,WD
+177,Rolls-Royce Phantom Sedan 2012,W,Luxury Elite,D,4-5 Door,WD
+178,Scion xD Hatchback 2012,E,Economy,D,4-5 Door,ED
+179,Spyker C8 Convertible 2009,X,Special,T,Convertible,XT
+180,Spyker C8 Coupe 2009,X,Special,E,Coupe,XE
+181,Suzuki Aerio Sedan 2007,E,Economy,D,4-5 Door,ED
+182,Suzuki Kizashi Sedan 2012,C,Compact,D,4-5 Door,CD
+183,Suzuki SX4 Hatchback 2012,E,Economy,D,4-5 Door,ED
+184,Suzuki SX4 Sedan 2012,E,Economy,D,4-5 Door,ED
+185,Tesla Model S Sedan 2012,P,Premium,D,4-5 Door,PD
+186,Toyota Sequoia SUV 2012,F,Fullsize,F,SUV,FF
+187,Toyota Camry Sedan 2012,I,Intermediate,D,4-5 Door,ID
+188,Toyota Corolla Sedan 2012,C,Compact,D,4-5 Door,CD
+189,Toyota 4Runner SUV 2012,S,Standard,F,SUV,SF
+190,Volkswagen Golf Hatchback 2012,C,Compact,D,4-5 Door,CD
+191,Volkswagen Golf Hatchback 1991,C,Compact,D,4-5 Door,CD
+192,Volkswagen Beetle Hatchback 2012,C,Compact,D,4-5 Door,CD
+193,Volvo C30 Hatchback 2012,P,Premium,D,4-5 Door,PD
+194,Volvo 240 Sedan 1993,I,Intermediate,D,4-5 Door,ID
+195,Volvo XC90 SUV 2007,P,Premium,F,SUV,PF
+196,smart fortwo Convertible 2012,M,Mini,T,Convertible,MT

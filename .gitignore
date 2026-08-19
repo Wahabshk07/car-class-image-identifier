@@ -4,8 +4,5 @@ __pycache__/
 *.py[cod]
 .DS_Store
 *.log
-acriss_images/
-acriss_models/
-cars_by_model/
 predicted_by_category/
 *_model/
