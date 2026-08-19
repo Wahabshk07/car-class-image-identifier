@@ -5,4 +5,11 @@ __pycache__/
 .DS_Store
 *.log
 predicted_by_category/
+acriss_images/
+acriss_images_nobg/
+cars_by_model/
+cars_by_model_nobg/
+acriss_models/
+cars_side_800/
+cars_rejected_not_side/
 *_model/
